@@ -4,6 +4,7 @@
 #### Table of Contents
 - **[Why and Goals](#why-and-goals)**
 - **[How](#how)**
+  + **[How to interview](#how-to-interview)**
 - **[What](#what)**
 
 ## Why and Goals
@@ -42,5 +43,13 @@ between the cortex and a computer to increase thereby also increasing human's
 ability to act on the world by an order of magnitude faster.
 
 ## How
+
+#### How to interview
+Ask them the following series of questions:
+0) `Can I record this interview for others in the company to listen to?`
+1) `Tell me the story of ur life and how u solved the hardest problem in ur life.`
+2) `What do u believe that very few people believe?`. Reason is because it
+   shows they are critical thinkers.
+3) In judging their response use ur gut instinct.
 
 ## What
