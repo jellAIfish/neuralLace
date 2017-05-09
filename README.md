@@ -31,18 +31,39 @@ humanity.</b> Just look at how humans treat animals with less intelligence.
 One solution is for humans to upgrade themselves and become the super human AI.
 Now the question becomes `How do u increase human intelligence by orders of magnitude safely?`
 
-A) Build a neural lace to increase human intelligence
-B) Recode human genome while human is alive to increase intelligence
-
-Intelligence definition = an object with the illusion of free will with the
+If intelligence is defined by an object with the illusion of free will with the
 ability to predict the future and act on it in a way that is beneficial to
-itself and others.
+itself and others then we can increase intelligence several ways.
 
-Building a neural lace and injecting it into the human brain to allow bandwidth
-between the cortex and a computer to increase thereby also increasing human's
-ability to act on the world by an order of magnitude faster.
+Option 1) increase range & accuracy of future predictions  
+Option 2) increase speed at which u can act on the world  
+Option 3) increase win win situations u can create for urself and other intelligent agents in the world
 
 ## How
+
+`How to increase option 1?`  
+- 10x improvement by sleeping better
+- 10x improvement by eating better
+- 10x improvement by having better relationships
+- 10x improvement by constantly learning more truths about the world from the worlds actual experts
+- 10x improvement by removing distractions such as social media
+- 10x improvement by removing collecting materails u don't actually need in ur life
+- 10x improvement by using a neural lace
+
+`How to increase option 2?`
+- 10x improvement by eating better
+- 10x improvement by sleeping better
+- 10x improvement by removing distractions such as social media
+- 10x improvement by accumulating passive income
+- 10x improvement by using a neural lace
+
+`How to increase option 3?`
+- 10x improvement by thinking when u need something what service can u create that will help u and someone else?
+
+Now using a neural lace increases option 1 and 2 and doesn't yet exist so how do we build one?
+
+`How to build a neural lace?`  
+A) insert mesh electronics into a specific area of the human brain to be able to read it's thoughts
 
 #### How to interview
 Ask them the following series of questions:
